@@ -1,6 +1,4 @@
-# FISA_A3_IA_GRP1
-
-# IA for HumanForYou
+# FISA_A3_IA_GRP1 - IA for HumanForYou
 
 ## Contexte
 
